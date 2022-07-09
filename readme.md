@@ -96,6 +96,7 @@
     - mome
     - email 
     - senha
+    - bio
     - Lista de Listas de recitas(Todas, Favoritas, Avulsos...)
 
 - Lista de Receita
@@ -122,8 +123,12 @@
 
 - Avaliação
     - Likes
-    - Comentários
+    - Lista de Comentários
     - Notas (Próxiimas versões)
+- Comentário
+    - id
+    - comentário
+    - likes (Talvez)
     
 ### Práticas
 - Branches
