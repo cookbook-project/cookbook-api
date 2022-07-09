@@ -1,5 +1,46 @@
 # Cadastro de Receitas Culinárias
 
+### Tecnologias (Já instalem em suas máquinas conforme o que for utilizar)
+#### PAINT
+- Back-End
+    - Java 17
+    - Spring Boot
+        - Spring Data JPA
+        - Spring Boot Dev Tools
+        - Spring Security
+    - Flyway
+    - Beans Validation
+    - Model Mapper
+    - Apache Maven
+    - Banco (Postgres, MySQL)
+    - Git
+        - GitHub
+    - IDE de desenvovimento Eclipse ou InteliJ
+    - IDE para banco de dados
+        - PG Admin
+        - DBeaver
+    - Engenharia de software
+        - Draw.io
+        - Qualquer outro
+        - Figma
+     
+- Mobile
+    - React Native
+    - Typescrypt
+    - Expo
+    - Yarn
+    - React Routes
+    - Biblioteca de ícones
+    - IDE VSCode
+- Web
+    - React JS
+    - typescrypt
+    - bootstrap (obs)
+    - Yarn
+    - React Routes
+    - Biblioteca de ícones
+    - VSCODE
+
 ### Funcionalidades
 - Criador da receita
     - Ações
@@ -83,36 +124,7 @@
     - Likes
     - Comentários
     - Notas (Próxiimas versões)
-
-
-### Tecnologias
-- Back-End
-    - Java 17
-    - Spring Boot
-        - Spring Data JPA
-        - Spring Boot Dev Tools
-        - Spring Security
-    - Flyway
-    - Beans Validation
-    - Model Mapper
-    - Apache Maven
-    - Banco (Postgres, MySQL)
-    - Git
-        - GitHub
-- Mobile
-    - React Native
-    - Typescrypt
-    - Expo
-    - Yarn
-    - React Routes
-    - Biblioteca de ícones
-- Web
-    - React JS
-    - typescrypt
-    - bootstrap (obs)
-    - Yarn
-    - React Routes
-    - Biblioteca de ícones
+    
 ### Práticas
 - Branches
         - Develop
